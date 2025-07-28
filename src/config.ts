@@ -62,7 +62,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://x.com/Zer0Labz,
 		},
 		{
 			name: "Steam",
@@ -72,7 +72,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			url: "https://github.com/zerozulu",
 		},
 	],
 };
