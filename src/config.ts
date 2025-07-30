@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "X",
-			icon: "fa-brands fa-x-twitter", // Visit https://icones.js.org/ for icon codes
+			icon: "fa-brands:fa-x-twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://x.com/Zer0Labz",
