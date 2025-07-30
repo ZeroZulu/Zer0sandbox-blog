@@ -68,6 +68,11 @@ export const profileConfig: ProfileConfig = {
 			name: "Steam",
 			icon: "fa6-brands:steam",
 			url: "https://store.steampowered.com",
+		},		
+		{
+			name: "Kaggle",
+			icon: "fa6-brands:kaggle",
+			url: "https://www.kaggle.com/zerol0l",
 		},
 		{
 			name: "GitHub",
