@@ -1,7 +1,7 @@
 ---
-title: Learning to Code on Your Own: Common Challenges and How to Beat Them
+title: Learning to Code on Your Own - Common Challenges and How to Beat Them
 published: 2025-07-30
-description:|
+description: |
   Self-teaching programming is rewarding—but also overwhelming. In this guide, we explore the most common challenges faced by self-taught developers,
   from resource overload to motivation slumps, and offer practical strategies to stay on track, build real projects, and connect with the coding community.
 image: ''
