@@ -65,9 +65,14 @@ export const profileConfig: ProfileConfig = {
 			url: "https://x.com/Zer0Labz",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Discord",
+			icon: "fa6-brands:discord",
+			url: "",
+		},
+		{
+			name: "Dev",
+			icon: "fa6-brands:dev",
+			url: "https://dev.to/zerozulu",
 		},		
 		{
 			name: "Kaggle",
