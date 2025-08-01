@@ -2,7 +2,7 @@
 title: Prompt Engineering Techniques Every Data Scientist Should Know [2025 Guide]
 published: 2025-08-01
 description: "Unlock the full potential of AI in your data science workflow with practical, hands-on prompt engineering techniques. This 2025 guide covers zero-shot, few-shot, chain-of-thought, self-consistency, and cutting-edge tools like RAG and LangChain. Learn how to boost productivity, automate tedious tasks, and communicate results more clearly—no matter your level."
-image: "./cover.jpeg"
+image: "./cover.jpg"
 tags: ["PromptEngineering", "DataScience", "CodingTips", "EDA"]
 category: Data Science
 draft: false
