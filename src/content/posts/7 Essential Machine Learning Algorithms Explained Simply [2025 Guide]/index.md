@@ -2,7 +2,7 @@
 title: 7 Essential Machine Learning Algorithms Explained Simply [2025 Guide]
 published: 2025-08-05
 description: "Master the fundamentals of machine learning with this beginner-friendly 2025 guide. Discover the 7 most essential algorithms—linear regression, logistic regression, decision trees, random forest, SVMs, k-means clustering, and naive Bayes. Learn how they work, when to use them, and why they matter. Whether you're just starting out or sharpening your data science skills, this guide simplifies complex concepts into practical, real-world insights."
-image: "./cover.jpeg"
+image: "./Algorithms.jpg"
 tags: ["Machine-Learning", "Algorithims", "Data-Analysis", "Data-Science", "Learning"]
 category: Data Science
 draft: false
