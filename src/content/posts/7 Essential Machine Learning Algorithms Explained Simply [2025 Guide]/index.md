@@ -22,7 +22,7 @@ Supervised learning algorithms form the backbone of Data Science, Data Analysis,
 
 Linear regression is a classic starting point for predictive modeling. At its heart, it finds the best-fitting straight line through your data to model how one or more independent variables impact a continuous outcome—like predicting house prices or sales figures.
 
-**How it works:**\
+**How it works:**
 It uses the least squares method to minimize the difference between actual and predicted values, resulting in a line that best summarizes the trend in your data. This mathematical approach gives analysts a straightforward way to forecast and understand relationships within data sets.
 
 **Why choose linear regression?**
