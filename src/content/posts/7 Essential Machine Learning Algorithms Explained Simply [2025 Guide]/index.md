@@ -60,7 +60,7 @@ For more details on how supervised learning algorithms, like logistic regression
 
 ### Decision Trees: Intuitive Flowcharts for Insight
 
-![Elegant 3D visualization of neural networks showcasing abstract connections in a digital space.](https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)\
+![Elegant 3D visualization of neural networks showcasing abstract connections in a digital space.](https://images.pexels.com/photos/17483871/pexels-photo-17483871.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 Photo by [Google DeepMind](https://www.pexels.com/@googledeepmind)
 
 Decision trees offer a highly visual approach to predictive modeling. Imagine a flowchart, where each step asks a yes/no question to split your data into more similar groups. Follow the branches, and you reach a decision at each end node, making results easy to explain.
@@ -108,7 +108,7 @@ Support Vector Machines (SVM) are your go-to tool when the goal is to slice thro
 - **Excels in high-dimensional spaces:** Text classification and gene expression data are common examples, where data points have hundreds or thousands of features. SVMs can handle these without breaking a sweat.
 - **Kernel tricks handle non-linear data:** Real-world data isn’t always tidily separated by straight lines. SVMs transform your data into higher dimensions with kernel functions, allowing even tangled clusters to become clear.
 
-**Limitations and best-fit scenarios:**\
+**Limitations and best-fit scenarios:**
 SVMs work best when you have clear, well-separated classes and not too much data. If your dataset is huge, SVMs can take a long time to train. Also, SVMs can struggle with noise—when your classes aren’t cleanly split or there’s a lot of overlap, performance drops. They aren’t built for problems where you need actual probability estimates, either.
 
 Get deeper technical details and mathematical examples in this resource on [Support Vector Machine (SVM) Algorithms](https://www.geeksforgeeks.org/machine-learning/support-vector-machine-algorithm/) and compare advanced applications at [Scikit-learn’s SVM guide](https://scikit-learn.org/stable/modules/svm.html).
