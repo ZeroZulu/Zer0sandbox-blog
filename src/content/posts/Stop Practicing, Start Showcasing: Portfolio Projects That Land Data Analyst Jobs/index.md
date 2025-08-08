@@ -2,7 +2,7 @@
 title: Stop Practicing, Start Showcasing - Portfolio Projects That Land Data Analyst Jobs
 published: 2025-08-08
 description: "Want to land a data analyst job but stuck building the same basic projects? This guide walks you through 5 powerful, real-world portfolio projects that go beyond tutorials and show recruiters you’re ready to work. Each project is designed to highlight a key skill—like data cleaning, exploratory data analysis (EDA), SQL, dashboarding, and machine learning—so you’re not just learning, you’re proving your ability to solve real problems with data. Whether you're a student, bootcamp grad, or career switcher, these projects will help you stand out, showcase your thinking, and build a job-ready portfolio recruiters can’t ignore."
-image: "./cover.png"
+image: "./cover.jpg"
 tags: ["DataScience", "DataAnalytics", "PortfolioProjects", "EDA", "Python"]
 category: Data Science
 draft: false
