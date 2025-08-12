@@ -2,7 +2,7 @@
 title: Your Data Has a Story — Here’s How to Make People Listen
 published: 2025-08-12
 description: "Data visualization isn’t just about charts—it’s about telling stories that inspire action. This comprehensive guide walks you through why visuals matter, core techniques for analysts and scientists, best practices for clarity and engagement, the latest tools and trends, and real-world success stories from healthcare to finance. Whether you’re building dashboards or presenting insights, you’ll learn how to turn raw data into clear, compelling narratives that drive smarter decisions."
-image: ""
+image: "./story.png"
 tags: ["Data Visualization", "Data Storytelling", "Dashboard Design", "Tableau", "Power Bi"]
 category: Data Science & Analytics
 draft: false
