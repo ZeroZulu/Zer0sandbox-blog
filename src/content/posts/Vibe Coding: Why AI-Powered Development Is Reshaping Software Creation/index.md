@@ -1,5 +1,5 @@
 ---
-title: Vibe Coding: Why AI - Powered Development Is Reshaping Software Creation
+title: Vibe Coding Why AI-Powered Development Is Reshaping Software Creation
 published: 2025-08-15
 description: "Vibe coding is transforming software development by shifting the coder’s role from line-by-line writer to creative architect. In this article, we explore how AI-powered development turns ideas into working code faster than ever, why it’s changing team workflows, and what skills professionals need to thrive in this new era of human–AI collaboration. Whether you’re a seasoned developer or just curious about the future of coding, this guide breaks down the benefits, challenges, and real-world impact of vibe coding."
 image: "./cover.png"
