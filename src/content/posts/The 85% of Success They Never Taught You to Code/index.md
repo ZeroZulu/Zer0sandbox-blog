@@ -2,7 +2,7 @@
 title: The 85% of Success They Never Taught You to Code
 published: 2026-01-30
 description: "Master the fundamentals of machine learning with this beginner-friendly 2025 guide. Discover the 7 most essential algorithms—linear regression, logistic regression, decision trees, random forest, SVMs, k-means clustering, and naive Bayes. Learn how they work, when to use them, and why they matter. Whether you're just starting out or sharpening your data science skills, this guide simplifies complex concepts into practical, real-world insights."
-image: "./.jpg"
+image: "./teamworrk.jpg"
 tags: ["Performance", "Career", "Development", "Data-Science", "Learning"]
 category: Development
 draft: false
